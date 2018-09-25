@@ -1,5 +1,5 @@
 _repo: The-English-Lakes_57664
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Cooper, A. Heaton (Alfred Heaton)
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '26663'
     url: http://www.gutenberg.org/2009/agents/26663
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Heaton_Cooper
+covers:
+- cover_type: archival
+  image_path: 57664-h/images/cover.jpg
 creator:
   author:
     agent_name: Palmer, W. T.
     gutenberg_agent_id: '49535'
     url: http://www.gutenberg.org/2009/agents/49535
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57664#The-English-Lakes
 gutenberg_issued: '2018-08-10'
 gutenberg_type: Text
 identifiers:
